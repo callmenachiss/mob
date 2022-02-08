@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+<!--       <class name="mobileappTestcase.UIHeaderScrollable3603"/> -->
+<!--       <class name="mobileappTestcase.UIBottomNavBar3602"/> -->
+<!--       <class name="mobileappTestcase.UITransitionfromSplashScreentoSignInSeamless3542"/> -->
+<!--       <class name="mobileappTestcase.UIProfileView3349"/> -->
+<!--       <class name="mobileappTestcase.UIPrivacyPolicyPremier3269"/> -->
+<!--       <class name="mobileappTestcase.UIViewPosts3612"/> -->
+<!--       <class name="mobileappTestcase.Regressionformobileapp"/> -->
+<!--       <class name="mobileappTestcase.UISignOut3569"/> -->
+<!--       <class name="mobileappTestcase.UIViewPostsAddTimestamp3703"/> -->
+      <class name="mobileappTestcase.UIViewPostsNoPosts3741"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

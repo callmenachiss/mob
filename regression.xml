@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+<!--       <class name="TestCases.UIViewPostNoPostMessagestyle3734"/> -->
+<!--       <class name="TestCases.UICommunitySettingPageDesign3350"/> -->
+      <class name="TestCases.RegressionforCollabWebAppUI"/>
+<!--       <class name="TestCases.UIAdminToolsLoadingbasisUserPrivileges3731"/> -->
+<!--       <class name="TestCases.RegressionforPremierConnectApplicationUI"/> -->
+<!--       <class name="TestCases.UIViewImageinPostsModalwithcarousel3728"/> -->
+<!--       <class name="TestCases.UIViewPostEditedTimestamp3793"/> -->
+<!--       <class name="TestCases.UIUpdateGalleryIcontoNumber3735"/> -->
+<!--       <class name="TestCases.Postsnotloadedonfirstlaunch3794"/> -->
+<!--       <class name="TestCases.UIPrivacyPolicyLinktobeupdated3883"/> -->
+<!--        <class name="TestCases.UIParseHyperlinksinPosts3736"/> -->
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
